@@ -1,0 +1,9 @@
+export const formSearch = document.getElementById('buscador'),
+            selectYear = document.getElementById('year'),
+            selectMarca = document.getElementById('marca'),
+            selectMinimo = document.getElementById('minimo'),
+            selectMaximo = document.getElementById('maximo'),
+            selectPuertas = document.getElementById('puertas'),
+            selectTransmision = document.getElementById('transmision'),
+            selectColor = document.getElementById('color'),
+            results  = document.getElementById('resultado')
